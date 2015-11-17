@@ -28,6 +28,7 @@
   <project path="device/common" name="device/common" groups="pdk-cw-fs" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
+  <project path="device/motorola/condor" name="ashwinr64/android_device_motorola_condor" remote="github" revision="twrp" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" />
